@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.font-wink{
+    font-family: "Winky Rough";
+}
+
+.font-inria{
+    font-family: "Inria Sans", sans-serif;
+}
